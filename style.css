@@ -1,0 +1,114 @@
+body {
+    background-color: #add8e6;
+}
+
+h1 {
+    color: #0000ff;
+    text-align: center;
+}
+table, th, td {
+    border: 1px solid #e01b24;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #dc8add;
+    color: #00008b;
+}
+p, th, td, label {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    color: #9141ac;
+}
+
+input, textarea {
+    padding: 8px;
+    border: 2px solid #e01b24;
+    border-radius: 5px;
+}
+
+input:focus, textarea:focus {
+    border-color: #26a269;
+}
+
+table, th, td {
+    border: 1px solid #e01b24;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #dc8add;
+    color: #0000ff;
+}
+
+
+header {
+    background-color: #ffffff;
+    color: #ed333b;
+    padding: 20px;
+}
+
+nav a {
+    color: #1a3fbf;
+    text-decoration: underline;
+    margin-right: 15px;
+}
+
+nav a:hover {
+    color: #e08a00;
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #62a0ea;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+
+.destacat {
+    background-color: #ffff00;
+    font-weight: bold;
+}
+.destacat {
+    background-color: #ed333b;
+    font-weight: bold;
+}
+
+button {
+    background-color: #813d9c;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #006400;
+}
+
+img {
+    width: 300px;
+    border-radius: 10%;
+    border: 3px solid #000000;
+}
+
+input, textarea {
+    padding: 8px;
+    border: 2px solid #ed333b;
+    border-radius: 5px;
+}
+
+input:focus, textarea:focus {
+    border-color: #62a0ea;
+}
+button {
+    background-color: #9a9996;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
